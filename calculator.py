@@ -1,4 +1,4 @@
 ﻿def add(a, b):
-    return a + b
+    return _____
 def minus(a, b):
-    return a - b
+    return _____
